@@ -1,6 +1,6 @@
-# 👩‍⚕️ Medical Data Extraction 📄
+# 👩‍⚕️ Medical History Extraction from Clinical Records 📄
 
-Medical Data Extraction is an end-to-end OCR-powered system designed to automatically extract structured information from Patient Records and Prescription PDFs.
+Medical History Extraction from Clinical Records is an end-to-end OCR-powered system designed to automatically extract structured information from Patient Records and Prescription PDFs.
 
 This project combines Computer Vision, Natural Language Processing, and Backend APIs to digitize healthcare documents, making them searchable, editable, and storable in a database.
 
